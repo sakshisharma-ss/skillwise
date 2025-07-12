@@ -1,6 +1,6 @@
 Problem Statement- Skill Swap Platform
 
-Member's Name -Sakshi Sharma                                                                                 Member's Email- sakshish51@gmail.com                    Member's Name -Yashpal Yadav                                                                                 Member's Email- yashpalyadav1114@gmail.com
+Member's Name -Sakshi Sharma, Member's Email- sakshish51@gmail.com                    Member's Name -Yashpal Yadav,                                                                                Member's Email- yashpalyadav1114@gmail.com
                                                                                                                                                                            
 Skill Wise - Peer to Peer Skill Swap Platform
 
