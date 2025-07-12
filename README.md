@@ -1,7 +1,6 @@
 Problem Statement- Skill Swap Platform
 
-Member's Name -Sakshi Sharma  Member's Email- sakshish51@gmail.com 
-Member's Name -Yashpal Yadav   Member's Email- yashpalyadav1114@gmail.com
+Member's Name -Sakshi Sharma  Member's Email- sakshish51@gmail.com                    Member's Name -Yashpal Yadav   Member's Email- yashpalyadav1114@gmail.com
                                                                                                                                                                            
 Skill Wise - Peer to Peer Skill Swap Platform
 
@@ -30,8 +29,8 @@ Admin Features-
 - Export reports on user activity and feedback
 
 Tech Stack-
-Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
-Backend: JavaScript-based logic, Flask (Python) for REST APIs.
-Database: Simulated persistent storage or SQLite when using Flask.
-Authentication: Simple email-password validation using backend logic.
-Version Control: Managed via Git and GitHub for collaboration and submission.
+-Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
+-Backend: JavaScript-based logic, Flask (Python) for REST APIs.
+-Database: Simulated persistent storage or SQLite when using Flask.
+-Authentication: Simple email-password validation using backend logic.
+-Version Control: Managed via Git and GitHub for collaboration and submission.
