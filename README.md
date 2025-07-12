@@ -1,6 +1,6 @@
 Problem Statement- Skill Swap Platform
 
-Member's Name -Sakshi Sharma, Member's Email- sakshish51@gmail.com                    Member's Name -Yashpal Yadav,                                                                                Member's Email- yashpalyadav1114@gmail.com
+Member's Name -Sakshi Sharma, Member's Email- sakshish51@gmail.com                      2nd Member's Name -Yashpal Yadav,                                                                                Member's Email- yashpalyadav1114@gmail.com
                                                                                                                                                                            
 Skill Wise - Peer to Peer Skill Swap Platform
 
@@ -30,7 +30,7 @@ Admin Features-
 
 Tech Stack-
 - Frontend       : HTML5, CSS3, JavaScript (Vanilla JS)
-- Backend        : JavaScript-based logic, Flask (Python) for REST APIs
+- Backend        : JavaScript-based logic via Bolt.new’s backend functions, Flask (Python) for REST APIs
 - Database       : Simulated persistent storage or SQLite when using Flask
 - Authentication : Simple email-password validation using backend logic
 - Version Control: Managed via Git and GitHub for collaboration and submission
