@@ -35,3 +35,4 @@ Tech Stack-
 - Authentication : Simple email-password validation using backend logic
 - Version Control: Managed via Git and GitHub for collaboration and submission
 
+Video Submission Link -  https://youtube.com/watch?v=73NaAy5GpRU&feature=shared
