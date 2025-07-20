@@ -1,11 +1,8 @@
-Problem Statement- Skill Swap Platform
-
-Member's Name -Sakshi Sharma, Member's Email- sakshish51@gmail.com                      2nd Member's Name -Yashpal Yadav,                                                                                Member's Email- yashpalyadav1114@gmail.com
-                                                                                                                                                                           
+                                                                                                                           
 Skill Wise - Peer to Peer Skill Swap Platform
 
 Skill Wise is a web-based application that enables users to exchange skills with others in the community. 
-We have developed it for the Odoo Hackathon, the platform allows users to create profiles, list the skills they can offer and request skills they want to learn in return. 
+The platform allows users to create profiles, list the skills they can offer and request skills they want to learn in return. 
 It promotes collaborative learning and community-based upskilling.
 
 
@@ -35,4 +32,4 @@ Tech Stack-
 - Authentication : Simple email-password validation using backend logic
 - Version Control: Managed via Git and GitHub for collaboration and submission
 
-Video Submission Link -  https://youtube.com/watch?v=73NaAy5GpRU&feature=shared
+
