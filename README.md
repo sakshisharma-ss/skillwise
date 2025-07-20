@@ -27,9 +27,7 @@ Admin Features-
 
 Tech Stack-
 - Frontend       : HTML5, CSS3, JavaScript (Vanilla JS)
-- Backend        : Flask (Python) for REST APIs, JavaScript-based logic via Bolt.new’s backend functions
-- Database       : Simulated persistent storage or SQLite when using Flask
+- Backend        : Flask (Python) for REST APIs, JavaScript-based logic
+- Database       : SQLite (Flask)
 - Authentication : Simple email-password validation using backend logic
-- Version Control: Managed via Git and GitHub for collaboration and submission
-
 
